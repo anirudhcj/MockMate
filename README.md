@@ -6,6 +6,7 @@ MockMate is a full-stack technical and HR interview preparation platform built w
 
 - **Customizable Mock Interviews:** Practice across 10 core domains (**JavaScript, React.js, Node.js, MongoDB, HTML & CSS, DBMS, Operating Systems, Computer Networks, Data Structures & Algorithms, and HR Interview**) with Beginner, Intermediate, and Advanced difficulty levels.
 - **Flexible Session Lengths:** Choose between 5-question and 10-question interview sessions with automatic question top-up from the question bank.
+- **Voice Assistance (Speech-to-Text & Text-to-Speech):** Dictate answers hands-free using the browser Web Speech API (`Speak Answer`) and listen to questions read aloud (`Listen`).
 - **AI Answer Evaluation:** Powered by **Google Gemini (`gemini-2.5-flash`)** to score responses against ideal answers and key technical concepts.
 - **Performance Analytics & History:** Track overall readiness, average scores, category-wise breakdowns, and past interview sessions.
 - **Secure Authentication:** JWT-based user registration and login flow.
